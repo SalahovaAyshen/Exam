@@ -1,0 +1,17 @@
+﻿@model UpdateSettingVM
+
+<div class="card-body">
+    <h4 class="card-title">Update</h4>
+
+    <form class="forms-sample" method="post" enctype="multipart/form-data">
+        @Html.Raw(Model.Value)
+        <div class="form-group">
+            <label asp-for="Value"></label>
+            <input asp-for="Value" class="form-control">
+            <span asp-validation-for="Value" class="text-danger"></span>
+        </div>
+        <button type="submit" class="btn btn-primary me-2">Submit</button>
+        <a class="btn btn-light" asp-action="index">Cancel</a>
+    </form>
+</div>
+

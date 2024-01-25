@@ -1,0 +1,36 @@
+﻿@model List<Setting>
+@{
+    int count = 0;
+}
+<div class="card-body">
+    <h4 class="card-title">Employees</h4>
+
+    <div class="table-responsive">
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>#</th>
+                    <th>Icon</th>
+                    <th>Key</th>
+                    <th>Settings</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    count++;
+                    <tr>
+                        <td>@count</td>
+                        <td>@Html.Raw(item.Value)</td>
+                        <td>@item.Key</td>
+                        <td>
+                            <a class="btn btn-warning btn-rounded btn-fw" asp-controller="setting" asp-action="update" asp-route-id="@item.Id">Update</a>
+                        </td>
+                    </tr>
+                }
+
+            </tbody>
+        </table>
+    </div>
+
+</div>

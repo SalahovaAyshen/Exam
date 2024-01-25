@@ -1,0 +1,60 @@
+﻿@model PaginationVM<Employee>
+@{
+    int count = 0;
+}
+<div class="card-body">
+    <h4 class="card-title">Employees</h4>
+    <a class="btn btn-success btn-rounded btn-fw" asp-controller="employee" asp-action="create">Create</a>
+
+    <div class="table-responsive">
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>#</th>
+                    <th>Image</th>
+                    <th>Fullname</th>
+                    <th>Position</th>
+                    <th>Settings</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model.Items)
+                {
+                    count++;
+                    <tr>
+                        <td>@count</td>
+                        <td>  <img style="width:150px;height:150px" src="~/assets/img/@item.Image" class="img-responsive img-circle" alt="@item.Name"></td>
+                        <td>@item.Name @item.Surname</td>
+                        <td>@item.Position.Name</td>
+                        <td>
+                            <a  class="btn btn-warning btn-rounded btn-fw" asp-controller="employee" asp-action="update" asp-route-id="@item.Id">Update</a>
+                            <a class="btn btn-danger btn-rounded btn-fw" asp-controller="employee" asp-action="delete" asp-route-id="@item.Id">Delete</a>
+                        </td>
+                    </tr>
+                }
+
+            </tbody>
+        </table>
+    </div>
+    <div class="d-flex justify-content-center ">
+        <nav aria-label="Page navigation example">
+            <ul class="pagination">
+                <li class="page-item @(Model.CurrentPage<=1 ? "disabled" : "")">
+                    <a class="page-link"  aria-label="Previous" asp-controller="employee" asp-action="index" asp-route-page="@(Model.CurrentPage-1)">
+                        <span aria-hidden="true">&laquo;</span>
+                    </a>
+                </li>
+               @for (int i = 0; i < Model.TotalPage; i++)
+                {
+                    <li class="page-item @(Model.CurrentPage-1==i ? "disabled" : "")"><a class="page-link" asp-controller="employee" asp-action="index" asp-route-page="@(i+1)">@(i+1)</a></li>
+                    
+                }
+                <li class="page-item  @(Model.CurrentPage>=Model.TotalPage ? "disabled" : "")">
+                    <a class="page-link"  aria-label="Next" asp-controller="employee" asp-action="index" asp-route-page="@(Model.CurrentPage+1)">
+                        <span aria-hidden="true">&raquo;</span>
+                    </a>
+                </li>
+            </ul>
+        </nav>
+    </div>
+</div>
