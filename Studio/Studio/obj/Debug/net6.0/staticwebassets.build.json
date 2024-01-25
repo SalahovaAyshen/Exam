@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "MHMESyiZ2ioguWrDSLcGw0ur4SDB3tFy2ekF1wir0NM=",
+  "Hash": "32qBAfWRRV43owtPNAjbelFvZMdDbWu4kWqzOhrxiog=",
   "Source": "Studio",
   "BasePath": "_content/Studio",
   "Mode": "Default",
@@ -357,6 +357,23 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\3218_Computer-power-abstract-binary-code.jpg"
     },
     {
+      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\Exam\\Studio\\Studio\\wwwroot\\assets\\img\\3837db2c-61a6-4e03-bf85-3d20c253ca14team-img.jpg",
+      "SourceId": "Studio",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\Exam\\Studio\\Studio\\wwwroot\\",
+      "BasePath": "_content/Studio",
+      "RelativePath": "assets/img/3837db2c-61a6-4e03-bf85-3d20c253ca14team-img.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\img\\3837db2c-61a6-4e03-bf85-3d20c253ca14team-img.jpg"
+    },
+    {
       "Identity": "C:\\Users\\ca.r214.16\\Desktop\\Exam\\Studio\\Studio\\wwwroot\\assets\\img\\4.jpg",
       "SourceId": "Studio",
       "SourceType": "Discovered",
@@ -372,6 +389,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\img\\4.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\Exam\\Studio\\Studio\\wwwroot\\assets\\img\\50b1c0b6-8a00-4d15-acaf-ba7e0e1ef15fabout-img.jpg",
+      "SourceId": "Studio",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\Exam\\Studio\\Studio\\wwwroot\\",
+      "BasePath": "_content/Studio",
+      "RelativePath": "assets/img/50b1c0b6-8a00-4d15-acaf-ba7e0e1ef15fabout-img.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\img\\50b1c0b6-8a00-4d15-acaf-ba7e0e1ef15fabout-img.jpg"
     },
     {
       "Identity": "C:\\Users\\ca.r214.16\\Desktop\\Exam\\Studio\\Studio\\wwwroot\\assets\\img\\airplane-take-off-at-sunset-hd-wallpaper.png",
