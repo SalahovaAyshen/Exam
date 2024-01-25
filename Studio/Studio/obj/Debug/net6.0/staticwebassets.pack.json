@@ -1,0 +1,429 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\ca.r214.16\\Desktop\\Exam\\Studio\\Studio\\wwwroot\\assets\\css\\boot.css",
+      "PackagePath": "staticwebassets\\assets\\css\\boot.css"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.16\\Desktop\\Exam\\Studio\\Studio\\wwwroot\\assets\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.16\\Desktop\\Exam\\Studio\\Studio\\wwwroot\\assets\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.16\\Desktop\\Exam\\Studio\\Studio\\wwwroot\\assets\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.16\\Desktop\\Exam\\Studio\\Studio\\wwwroot\\assets\\css\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\assets\\css\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.16\\Desktop\\Exam\\Studio\\Studio\\wwwroot\\assets\\css\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\assets\\css\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.16\\Desktop\\Exam\\Studio\\Studio\\wwwroot\\assets\\css\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\assets\\css\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.16\\Desktop\\Exam\\Studio\\Studio\\wwwroot\\assets\\css\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\assets\\css\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.16\\Desktop\\Exam\\Studio\\Studio\\wwwroot\\assets\\css\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\assets\\css\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.16\\Desktop\\Exam\\Studio\\Studio\\wwwroot\\assets\\css\\fonts\\glyphicons-halflings-regular.eot",
+      "PackagePath": "staticwebassets\\assets\\css\\fonts\\glyphicons-halflings-regular.eot"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.16\\Desktop\\Exam\\Studio\\Studio\\wwwroot\\assets\\css\\fonts\\glyphicons-halflings-regular.svg",
+      "PackagePath": "staticwebassets\\assets\\css\\fonts\\glyphicons-halflings-regular.svg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.16\\Desktop\\Exam\\Studio\\Studio\\wwwroot\\assets\\css\\fonts\\glyphicons-halflings-regular.ttf",
+      "PackagePath": "staticwebassets\\assets\\css\\fonts\\glyphicons-halflings-regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.16\\Desktop\\Exam\\Studio\\Studio\\wwwroot\\assets\\css\\fonts\\glyphicons-halflings-regular.woff",
+      "PackagePath": "staticwebassets\\assets\\css\\fonts\\glyphicons-halflings-regular.woff"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.16\\Desktop\\Exam\\Studio\\Studio\\wwwroot\\assets\\css\\fonts\\glyphicons-halflings-regular.woff2",
+      "PackagePath": "staticwebassets\\assets\\css\\fonts\\glyphicons-halflings-regular.woff2"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.16\\Desktop\\Exam\\Studio\\Studio\\wwwroot\\assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\assets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.16\\Desktop\\Exam\\Studio\\Studio\\wwwroot\\assets\\css\\style1.css",
+      "PackagePath": "staticwebassets\\assets\\css\\style1.css"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.16\\Desktop\\Exam\\Studio\\Studio\\wwwroot\\assets\\css\\style_common.css",
+      "PackagePath": "staticwebassets\\assets\\css\\style_common.css"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.16\\Desktop\\Exam\\Studio\\Studio\\wwwroot\\assets\\img\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.16\\Desktop\\Exam\\Studio\\Studio\\wwwroot\\assets\\img\\2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.16\\Desktop\\Exam\\Studio\\Studio\\wwwroot\\assets\\img\\3218_Computer-power-abstract-binary-code.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\3218_Computer-power-abstract-binary-code.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.16\\Desktop\\Exam\\Studio\\Studio\\wwwroot\\assets\\img\\4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.16\\Desktop\\Exam\\Studio\\Studio\\wwwroot\\assets\\img\\Alexandra-M-Team-Leader.png",
+      "PackagePath": "staticwebassets\\assets\\img\\Alexandra-M-Team-Leader.png"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.16\\Desktop\\Exam\\Studio\\Studio\\wwwroot\\assets\\img\\Beautiful-girl-listen-music-so-happy.png",
+      "PackagePath": "staticwebassets\\assets\\img\\Beautiful-girl-listen-music-so-happy.png"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.16\\Desktop\\Exam\\Studio\\Studio\\wwwroot\\assets\\img\\IMG_0195.png",
+      "PackagePath": "staticwebassets\\assets\\img\\IMG_0195.png"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.16\\Desktop\\Exam\\Studio\\Studio\\wwwroot\\assets\\img\\Zac-Efron-7-1600.png",
+      "PackagePath": "staticwebassets\\assets\\img\\Zac-Efron-7-1600.png"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.16\\Desktop\\Exam\\Studio\\Studio\\wwwroot\\assets\\img\\a-new-beginning.png",
+      "PackagePath": "staticwebassets\\assets\\img\\a-new-beginning.png"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.16\\Desktop\\Exam\\Studio\\Studio\\wwwroot\\assets\\img\\airplane-take-off-at-sunset-hd-wallpaper.png",
+      "PackagePath": "staticwebassets\\assets\\img\\airplane-take-off-at-sunset-hd-wallpaper.png"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.16\\Desktop\\Exam\\Studio\\Studio\\wwwroot\\assets\\img\\beautiful-girl-hat-wallpaper-43323-44368-hd-wallpapers.png",
+      "PackagePath": "staticwebassets\\assets\\img\\beautiful-girl-hat-wallpaper-43323-44368-hd-wallpapers.png"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.16\\Desktop\\Exam\\Studio\\Studio\\wwwroot\\assets\\img\\beautiful-smile-girl.png",
+      "PackagePath": "staticwebassets\\assets\\img\\beautiful-smile-girl.png"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.16\\Desktop\\Exam\\Studio\\Studio\\wwwroot\\assets\\img\\lz2prlf1tbf.png",
+      "PackagePath": "staticwebassets\\assets\\img\\lz2prlf1tbf.png"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.16\\Desktop\\Exam\\Studio\\Studio\\wwwroot\\assets\\img\\xperia-z4-tablet-black-1240x840-a07acf270af4d6789d0e83aea747b064.png",
+      "PackagePath": "staticwebassets\\assets\\img\\xperia-z4-tablet-black-1240x840-a07acf270af4d6789d0e83aea747b064.png"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.16\\Desktop\\Exam\\Studio\\Studio\\wwwroot\\assets\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.16\\Desktop\\Exam\\Studio\\Studio\\wwwroot\\assets\\js\\jquery-1.10.1.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery-1.10.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.16\\Desktop\\Exam\\Studio\\Studio\\wwwroot\\assets\\js\\jquery.hoverfold.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.hoverfold.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.16\\Desktop\\Exam\\Studio\\Studio\\wwwroot\\assets\\js\\modernizr.custom.69142.js",
+      "PackagePath": "staticwebassets\\assets\\js\\modernizr.custom.69142.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.16\\Desktop\\Exam\\Studio\\Studio\\wwwroot\\manage\\css\\maps\\style.css.map",
+      "PackagePath": "staticwebassets\\manage\\css\\maps\\style.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.16\\Desktop\\Exam\\Studio\\Studio\\wwwroot\\manage\\css\\style.css",
+      "PackagePath": "staticwebassets\\manage\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.16\\Desktop\\Exam\\Studio\\Studio\\wwwroot\\manage\\images\\.DS_Store",
+      "PackagePath": "staticwebassets\\manage\\images\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.16\\Desktop\\Exam\\Studio\\Studio\\wwwroot\\manage\\images\\auth\\.DS_Store",
+      "PackagePath": "staticwebassets\\manage\\images\\auth\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.16\\Desktop\\Exam\\Studio\\Studio\\wwwroot\\manage\\images\\auth\\lockscreen-bg.jpg",
+      "PackagePath": "staticwebassets\\manage\\images\\auth\\lockscreen-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.16\\Desktop\\Exam\\Studio\\Studio\\wwwroot\\manage\\images\\auth\\login-bg.jpg",
+      "PackagePath": "staticwebassets\\manage\\images\\auth\\login-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.16\\Desktop\\Exam\\Studio\\Studio\\wwwroot\\manage\\images\\auth\\register-bg.jpg",
+      "PackagePath": "staticwebassets\\manage\\images\\auth\\register-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.16\\Desktop\\Exam\\Studio\\Studio\\wwwroot\\manage\\images\\faces\\.DS_Store",
+      "PackagePath": "staticwebassets\\manage\\images\\faces\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.16\\Desktop\\Exam\\Studio\\Studio\\wwwroot\\manage\\images\\faces\\face1.jpg",
+      "PackagePath": "staticwebassets\\manage\\images\\faces\\face1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.16\\Desktop\\Exam\\Studio\\Studio\\wwwroot\\manage\\images\\faces\\face10.jpg",
+      "PackagePath": "staticwebassets\\manage\\images\\faces\\face10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.16\\Desktop\\Exam\\Studio\\Studio\\wwwroot\\manage\\images\\faces\\face11.jpg",
+      "PackagePath": "staticwebassets\\manage\\images\\faces\\face11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.16\\Desktop\\Exam\\Studio\\Studio\\wwwroot\\manage\\images\\faces\\face12.jpg",
+      "PackagePath": "staticwebassets\\manage\\images\\faces\\face12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.16\\Desktop\\Exam\\Studio\\Studio\\wwwroot\\manage\\images\\faces\\face13.jpg",
+      "PackagePath": "staticwebassets\\manage\\images\\faces\\face13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.16\\Desktop\\Exam\\Studio\\Studio\\wwwroot\\manage\\images\\faces\\face14.jpg",
+      "PackagePath": "staticwebassets\\manage\\images\\faces\\face14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.16\\Desktop\\Exam\\Studio\\Studio\\wwwroot\\manage\\images\\faces\\face15.jpg",
+      "PackagePath": "staticwebassets\\manage\\images\\faces\\face15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.16\\Desktop\\Exam\\Studio\\Studio\\wwwroot\\manage\\images\\faces\\face16.jpg",
+      "PackagePath": "staticwebassets\\manage\\images\\faces\\face16.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.16\\Desktop\\Exam\\Studio\\Studio\\wwwroot\\manage\\images\\faces\\face17.jpg",
+      "PackagePath": "staticwebassets\\manage\\images\\faces\\face17.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.16\\Desktop\\Exam\\Studio\\Studio\\wwwroot\\manage\\images\\faces\\face18.jpg",
+      "PackagePath": "staticwebassets\\manage\\images\\faces\\face18.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.16\\Desktop\\Exam\\Studio\\Studio\\wwwroot\\manage\\images\\faces\\face19.jpg",
+      "PackagePath": "staticwebassets\\manage\\images\\faces\\face19.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.16\\Desktop\\Exam\\Studio\\Studio\\wwwroot\\manage\\images\\faces\\face2.jpg",
+      "PackagePath": "staticwebassets\\manage\\images\\faces\\face2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.16\\Desktop\\Exam\\Studio\\Studio\\wwwroot\\manage\\images\\faces\\face20.jpg",
+      "PackagePath": "staticwebassets\\manage\\images\\faces\\face20.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.16\\Desktop\\Exam\\Studio\\Studio\\wwwroot\\manage\\images\\faces\\face21.jpg",
+      "PackagePath": "staticwebassets\\manage\\images\\faces\\face21.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.16\\Desktop\\Exam\\Studio\\Studio\\wwwroot\\manage\\images\\faces\\face22.jpg",
+      "PackagePath": "staticwebassets\\manage\\images\\faces\\face22.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.16\\Desktop\\Exam\\Studio\\Studio\\wwwroot\\manage\\images\\faces\\face23.jpg",
+      "PackagePath": "staticwebassets\\manage\\images\\faces\\face23.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.16\\Desktop\\Exam\\Studio\\Studio\\wwwroot\\manage\\images\\faces\\face24.jpg",
+      "PackagePath": "staticwebassets\\manage\\images\\faces\\face24.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.16\\Desktop\\Exam\\Studio\\Studio\\wwwroot\\manage\\images\\faces\\face25.jpg",
+      "PackagePath": "staticwebassets\\manage\\images\\faces\\face25.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.16\\Desktop\\Exam\\Studio\\Studio\\wwwroot\\manage\\images\\faces\\face26.jpg",
+      "PackagePath": "staticwebassets\\manage\\images\\faces\\face26.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.16\\Desktop\\Exam\\Studio\\Studio\\wwwroot\\manage\\images\\faces\\face27.jpg",
+      "PackagePath": "staticwebassets\\manage\\images\\faces\\face27.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.16\\Desktop\\Exam\\Studio\\Studio\\wwwroot\\manage\\images\\faces\\face3.jpg",
+      "PackagePath": "staticwebassets\\manage\\images\\faces\\face3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.16\\Desktop\\Exam\\Studio\\Studio\\wwwroot\\manage\\images\\faces\\face4.jpg",
+      "PackagePath": "staticwebassets\\manage\\images\\faces\\face4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.16\\Desktop\\Exam\\Studio\\Studio\\wwwroot\\manage\\images\\faces\\face5.jpg",
+      "PackagePath": "staticwebassets\\manage\\images\\faces\\face5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.16\\Desktop\\Exam\\Studio\\Studio\\wwwroot\\manage\\images\\faces\\face6.jpg",
+      "PackagePath": "staticwebassets\\manage\\images\\faces\\face6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.16\\Desktop\\Exam\\Studio\\Studio\\wwwroot\\manage\\images\\faces\\face7.jpg",
+      "PackagePath": "staticwebassets\\manage\\images\\faces\\face7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.16\\Desktop\\Exam\\Studio\\Studio\\wwwroot\\manage\\images\\faces\\face8.jpg",
+      "PackagePath": "staticwebassets\\manage\\images\\faces\\face8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.16\\Desktop\\Exam\\Studio\\Studio\\wwwroot\\manage\\images\\faces\\face9.jpg",
+      "PackagePath": "staticwebassets\\manage\\images\\faces\\face9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.16\\Desktop\\Exam\\Studio\\Studio\\wwwroot\\manage\\images\\favicon.ico",
+      "PackagePath": "staticwebassets\\manage\\images\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.16\\Desktop\\Exam\\Studio\\Studio\\wwwroot\\manage\\images\\favicon.png",
+      "PackagePath": "staticwebassets\\manage\\images\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.16\\Desktop\\Exam\\Studio\\Studio\\wwwroot\\manage\\images\\logo-mini.svg",
+      "PackagePath": "staticwebassets\\manage\\images\\logo-mini.svg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.16\\Desktop\\Exam\\Studio\\Studio\\wwwroot\\manage\\images\\logo.svg",
+      "PackagePath": "staticwebassets\\manage\\images\\logo.svg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.16\\Desktop\\Exam\\Studio\\Studio\\wwwroot\\manage\\js\\.DS_Store",
+      "PackagePath": "staticwebassets\\manage\\js\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.16\\Desktop\\Exam\\Studio\\Studio\\wwwroot\\manage\\js\\Chart.min.js",
+      "PackagePath": "staticwebassets\\manage\\js\\Chart.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.16\\Desktop\\Exam\\Studio\\Studio\\wwwroot\\manage\\js\\chart.js",
+      "PackagePath": "staticwebassets\\manage\\js\\chart.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.16\\Desktop\\Exam\\Studio\\Studio\\wwwroot\\manage\\js\\dashboard.js",
+      "PackagePath": "staticwebassets\\manage\\js\\dashboard.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.16\\Desktop\\Exam\\Studio\\Studio\\wwwroot\\manage\\js\\data-table.js",
+      "PackagePath": "staticwebassets\\manage\\js\\data-table.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.16\\Desktop\\Exam\\Studio\\Studio\\wwwroot\\manage\\js\\dataTables.bootstrap4.js",
+      "PackagePath": "staticwebassets\\manage\\js\\dataTables.bootstrap4.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.16\\Desktop\\Exam\\Studio\\Studio\\wwwroot\\manage\\js\\documentation.js",
+      "PackagePath": "staticwebassets\\manage\\js\\documentation.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.16\\Desktop\\Exam\\Studio\\Studio\\wwwroot\\manage\\js\\file-upload.js",
+      "PackagePath": "staticwebassets\\manage\\js\\file-upload.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.16\\Desktop\\Exam\\Studio\\Studio\\wwwroot\\manage\\js\\hoverable-collapse.js",
+      "PackagePath": "staticwebassets\\manage\\js\\hoverable-collapse.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.16\\Desktop\\Exam\\Studio\\Studio\\wwwroot\\manage\\js\\jquery.cookie.js",
+      "PackagePath": "staticwebassets\\manage\\js\\jquery.cookie.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.16\\Desktop\\Exam\\Studio\\Studio\\wwwroot\\manage\\js\\jquery.dataTables.js",
+      "PackagePath": "staticwebassets\\manage\\js\\jquery.dataTables.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.16\\Desktop\\Exam\\Studio\\Studio\\wwwroot\\manage\\js\\off-canvas.js",
+      "PackagePath": "staticwebassets\\manage\\js\\off-canvas.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.16\\Desktop\\Exam\\Studio\\Studio\\wwwroot\\manage\\js\\tabs.js",
+      "PackagePath": "staticwebassets\\manage\\js\\tabs.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.16\\Desktop\\Exam\\Studio\\Studio\\wwwroot\\manage\\js\\template.js",
+      "PackagePath": "staticwebassets\\manage\\js\\template.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.16\\Desktop\\Exam\\Studio\\Studio\\wwwroot\\manage\\vendors\\.DS_Store",
+      "PackagePath": "staticwebassets\\manage\\vendors\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.16\\Desktop\\Exam\\Studio\\Studio\\wwwroot\\manage\\vendors\\base\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\manage\\vendors\\base\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.16\\Desktop\\Exam\\Studio\\Studio\\wwwroot\\manage\\vendors\\base\\vendor.bundle.base.css",
+      "PackagePath": "staticwebassets\\manage\\vendors\\base\\vendor.bundle.base.css"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.16\\Desktop\\Exam\\Studio\\Studio\\wwwroot\\manage\\vendors\\base\\vendor.bundle.base.js",
+      "PackagePath": "staticwebassets\\manage\\vendors\\base\\vendor.bundle.base.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.16\\Desktop\\Exam\\Studio\\Studio\\wwwroot\\manage\\vendors\\chart.js\\Chart.min.js",
+      "PackagePath": "staticwebassets\\manage\\vendors\\chart.js\\Chart.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.16\\Desktop\\Exam\\Studio\\Studio\\wwwroot\\manage\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.css",
+      "PackagePath": "staticwebassets\\manage\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.css"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.16\\Desktop\\Exam\\Studio\\Studio\\wwwroot\\manage\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.js",
+      "PackagePath": "staticwebassets\\manage\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.16\\Desktop\\Exam\\Studio\\Studio\\wwwroot\\manage\\vendors\\datatables.net\\jquery.dataTables.js",
+      "PackagePath": "staticwebassets\\manage\\vendors\\datatables.net\\jquery.dataTables.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.16\\Desktop\\Exam\\Studio\\Studio\\wwwroot\\manage\\vendors\\mdi\\css\\materialdesignicons.min.css",
+      "PackagePath": "staticwebassets\\manage\\vendors\\mdi\\css\\materialdesignicons.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.16\\Desktop\\Exam\\Studio\\Studio\\wwwroot\\manage\\vendors\\mdi\\css\\materialdesignicons.min.css.map",
+      "PackagePath": "staticwebassets\\manage\\vendors\\mdi\\css\\materialdesignicons.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.16\\Desktop\\Exam\\Studio\\Studio\\wwwroot\\manage\\vendors\\mdi\\fonts\\materialdesignicons-webfont.eot",
+      "PackagePath": "staticwebassets\\manage\\vendors\\mdi\\fonts\\materialdesignicons-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.16\\Desktop\\Exam\\Studio\\Studio\\wwwroot\\manage\\vendors\\mdi\\fonts\\materialdesignicons-webfont.ttf",
+      "PackagePath": "staticwebassets\\manage\\vendors\\mdi\\fonts\\materialdesignicons-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.16\\Desktop\\Exam\\Studio\\Studio\\wwwroot\\manage\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff",
+      "PackagePath": "staticwebassets\\manage\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.16\\Desktop\\Exam\\Studio\\Studio\\wwwroot\\manage\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff2",
+      "PackagePath": "staticwebassets\\manage\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff2"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Studio.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Studio.props",
+      "PackagePath": "build\\Studio.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Studio.props",
+      "PackagePath": "buildMultiTargeting\\Studio.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Studio.props",
+      "PackagePath": "buildTransitive\\Studio.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
